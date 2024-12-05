@@ -1,10 +1,10 @@
 # 🧠📊 Emotion Classification with Traditional Models and Transformers  
 ![](https://img.shields.io/badge/python-3.10%2B-blue?logo=Python)  
 ![HuggingFace](https://img.shields.io/badge/huggingface-transformers-yellow?logo=huggingface)  
-![RandomForest](https://img.shields.io/badge/Random%20Forest-text_classification-green)
-![NaiveBayes](https://img.shields.io/badge/NaiveBayes-nonparametric_model-lightblue)  
+![RandomForest](https://img.shields.io/badge/Random%20Forest-parametric_model-green)
+![NaiveBayes](https://img.shields.io/badge/Naive%20Bayes-nonparametric_model-lightblue)  
 ![BERT](https://img.shields.io/badge/BERT-fine_tuning-red)  
-![GBT-2](https://img.shields.io/badge/GBT2-fine_tuning-white)  
+![GBT-2](https://img.shields.io/badge/GBT2-fine_tuning-lightgray)  
 
 🔍 A Comparative Study of Random Forest, Naive Bayes, and Transformer-Based Models for Emotion Classification 🔍  
 
