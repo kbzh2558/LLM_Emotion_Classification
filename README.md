@@ -6,7 +6,7 @@
 ![BERT](https://img.shields.io/badge/BERT-fine_tuning-red)  
 ![GBT-2](https://img.shields.io/badge/GBT2-fine_tuning-lightgray)  
 
-🔍 A Comparative Study of Random Forest, Naive Bayes, and Transformer-Based Models for Emotion Classification 🔍  
+🔍 A Comparative Study of Random Forest, Naive Bayes, and Transformer-Based Models for Emotion Classification 
 
 > **Authors**  
 > Mingshu Liu, Kaibo Zhang, and Alek Bedard  
