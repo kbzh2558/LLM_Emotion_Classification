@@ -100,7 +100,9 @@ Class imbalance is a notable challenge, with the majority class ("neutral") domi
 ## Citation  
 [1] Dorottya Demszky, Dana Movshovitz-Attias, Jeongwoo Ko, Alan Cowen, Gaurav Nemade, and Sujith Ravi.
 GoEmotions: A Dataset of Fine-Grained Emotions. In 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020.
+
 [2] Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. BERT: pre-training of deep bidirectional
 transformers for language understanding. CoRR, abs/1810.04805, 2018.
+
 [3] Alec Radford, Jeff Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever. Language models are
 unsupervised multitask learners. 2019.
